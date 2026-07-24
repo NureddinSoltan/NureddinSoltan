@@ -14,7 +14,7 @@ Welcome to my world of code! I'm a **Software Engineer** building scalable syste
 - **Backend:** Django, Django REST Framework, FastAPI
 - **Databases:** PostgreSQL, MongoDB, SQLite, Redis
 - **Frontend:** HTML, CSS, JavaScript, Tailwind, Vue/Quasar (familiar)
-- **Tools & DevOps:** Git, Docker, Postman, CI/CD pipelines
+- **Tools & DevOps:** Git, Docker, Postman, CI/CD pipelines, Burp Suite
 - **Methodologies:** Agile, Scrum, REST API design
 
 ## <img src="https://api.iconify.design/tabler/mail-filled.svg?color=%232f81f7" width="22" /> Connect with Me
