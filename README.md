@@ -4,7 +4,7 @@ Welcome to my world of code! I'm a **Software Engineer** building scalable syste
 
 ## <img src="https://api.iconify.design/tabler/user-filled.svg?color=%232f81f7" width="22" /> About Me
 - Software Engineer by profession, curious by nature.
-- Bachelor of Engineering in Software Engineering (Üsküdar University, Class of 2025).
+- Bachelor of Science in Software Engineering, Üsküdar University
 - Passionate about backend development, REST APIs, FastAPI, Django, databases, and DevOps practices.
 - I enjoy solving problems, building systems, and making life easier with technology.
 - Lifelong learner, always exploring the boundaries of knowledge.
